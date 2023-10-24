@@ -1,0 +1,10 @@
+[workspace.package]
+name = "my-rust-examples"
+version = "0.1.0"
+edition = "2021"
+authors = ["luckychacha"]
+
+[workspace]
+members = [
+	"closure-examples",
+]
