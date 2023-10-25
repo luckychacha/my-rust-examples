@@ -7,4 +7,5 @@ authors = ["luckychacha"]
 [workspace]
 members = [
 	"closure-examples",
+	"code-wars",
 ]
